@@ -1,0 +1,10 @@
+﻿.nav navbar-inverse navbar-fixed-top{
+	width:auto;
+	height: auto;
+	overflow: hidden;
+}
+.footer{
+	background-color: #F1F1F1;
+	text-align: center;
+	padding: 10px;
+}
